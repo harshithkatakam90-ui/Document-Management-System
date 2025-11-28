@@ -1,0 +1,18 @@
+Content of instructions.txt
+=================================
+Document Management
+=================================
+
+Domain: Managing the Documents
+Problem: Can add documents for storing and also easy access to documents
+
+Key Features:
+- Allows searching documents by ID, title, or author.
+- Enables safe deletion with custom error handling.
+- Supports creation of multiple document types using OOP inheritance.
+
+Learning Goals:
+- Object-Oriented Programming (Classes, Relationships)
+- Data Structures (Dictionaries for lookups)
+- Exception Handling (Custom Exceptions)
+- Modular Code (Separate files for entities and logic)
